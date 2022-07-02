@@ -1,0 +1,159 @@
+.navbar-nav{
+    color: rgb(133, 119, 119);
+    font-size: 20px;
+    position: relative;
+    left: 20%;
+
+}
+.navbar-brand{
+    font-size: 40px;
+    font-family: Haettenschweiler,
+
+}
+#dropdown3{
+    position: relative;
+    right: 20px;
+}
+#btn{
+    border-radius: 50px;
+    padding: 10px;
+    width: 12rem;
+    background-color: rgb(36, 34, 31);
+    border: 1px solid rgb(36, 34, 31);
+    position: relative;
+    left: 5rem;
+}
+#col1{
+    position: relative;
+    left: 20%;
+}
+#btn1{
+    padding: 15px;
+    width: 12rem;
+    border-radius: 30px;
+    position: relative;
+    bottom: 40px;
+    right: 20px;
+}
+#p{
+    position: relative;
+    left: 8rem;
+}
+#p1{
+    position: relative;
+    bottom: 40px;
+    left: 4rem;
+}
+#col2{
+    position: relative;
+    left: 15rem;
+    top: 5rem;
+}
+#p2{
+    position: relative;
+    left: 28rem;
+    top: 5rem;
+
+}
+#img1{
+    position: relative;
+    top: 10rem;
+}
+.col3{
+    position: relative;
+    top: 20rem;
+    text-align: center;
+    font-size: 25px;
+    font-family: Verdana;
+}
+#h1{
+    position: relative;
+    bottom: 5rem;
+}
+#img2{
+    position: relative;
+    top: 25rem;
+}
+#card{
+    position: relative;
+    left: 25rem;
+    bottom: 10rem;
+
+}
+#card1{
+    position: relative;
+    top: 3rem;
+}
+#card2{
+    position: relative;
+    top: 4rem;
+    left: 5rem;
+    
+}
+#card3{
+    position: relative;
+    top: 4rem;
+    left: 2rem;
+}
+#btn2{
+    padding: 15px;
+    width: 12rem;
+    border-radius: 30px;
+    position: relative;
+    left: 5rem;
+    top:4rem;
+}
+#show{
+    position: relative;
+    top: 8rem;
+    
+}
+#row{
+    position: relative;
+    top: 8rem;
+    left: 5rem;
+}
+#img3{
+    position: relative;
+    top: 10rem;
+}
+#wood{
+    position: relative;
+    bottom: 5rem;
+    color: white;
+}
+#navbarNav{
+    position: relative;
+    right: 15rem;
+    top: 5rem;
+
+    
+}
+#d1{
+    font-size: 15px;
+    color: black;
+    margin: 10px;
+}
+#top{
+    position: relative;
+    left: 28rem;
+    font-size: 15px;
+    color: black;
+}
+.btn4{
+    background-color: rgb(190, 157, 220);
+    padding: 15px;
+    width: 15rem;
+    border-radius: 25px;
+}
+#media{
+    position: relative;
+    left: 12rem;
+    margin: 5px;
+    cursor: pointer;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
